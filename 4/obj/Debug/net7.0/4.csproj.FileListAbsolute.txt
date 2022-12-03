@@ -1,0 +1,15 @@
+E:\hw8\4\bin\Debug\net7.0\4.exe
+E:\hw8\4\bin\Debug\net7.0\4.deps.json
+E:\hw8\4\bin\Debug\net7.0\4.runtimeconfig.json
+E:\hw8\4\bin\Debug\net7.0\4.dll
+E:\hw8\4\bin\Debug\net7.0\4.pdb
+E:\hw8\4\obj\Debug\net7.0\4.csproj.AssemblyReference.cache
+E:\hw8\4\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+E:\hw8\4\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+E:\hw8\4\obj\Debug\net7.0\4.AssemblyInfo.cs
+E:\hw8\4\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+E:\hw8\4\obj\Debug\net7.0\4.dll
+E:\hw8\4\obj\Debug\net7.0\refint\4.dll
+E:\hw8\4\obj\Debug\net7.0\4.pdb
+E:\hw8\4\obj\Debug\net7.0\4.genruntimeconfig.cache
+E:\hw8\4\obj\Debug\net7.0\ref\4.dll
